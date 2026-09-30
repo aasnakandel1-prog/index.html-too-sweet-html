@@ -1,0 +1,30 @@
+h1 {
+  color: white;;
+  font-size: 36px;
+  text-shadow: 2px 2px 5px black;
+}
+
+h2{
+  color: white;
+  font-size: 28px;
+  text-shadow: 2px 2px 5px black;
+}
+
+body {
+    font-family: "Playfair Display", serif;
+    background-color: #f0e6ff;
+}
+
+img {
+    width: 300px;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 20px;
+}
+
+.hero-section {
+    background-image: url("https://www.movin925.com/wp-content/uploads/2024/05/M_hozier_042324.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 40px;
+}
